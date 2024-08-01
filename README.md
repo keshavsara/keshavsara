@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C, C++, DSA, MS Excel, My SQL**
+- 💬 Ask me about **C, C++, DSA, MS Excel, My SQL,Java**
 
 - 📫 How to reach me **keshavsara8@gmail.com**
 
