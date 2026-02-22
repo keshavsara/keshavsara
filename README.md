@@ -1,23 +1,85 @@
-<h1 align="center">Hi 👋, I'm Keshav Sara</h1>
-<h3 align="center">Aspiring coder, passionate about solving logic based problems</h3>
+# Hi 👋, I'm Keshav Sara
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavsara&label=Profile%20views&color=0e75b6&style=flat" alt="keshavsara" /> </p>
+DevOps & Cloud enthusiast focused on building real-world infrastructure and deployment pipelines.  
+I enjoy working with Linux systems, cloud platforms, and automation tools to understand how modern applications run in production.
 
-- 🌱 I’m currently learning **DSA**
+---
 
-- 💬 Ask me about **C, C++, DSA, MS Excel, My SQL,Java**
+## 🚀 Current Focus
+- ☁️ Deepening knowledge in **AWS & Cloud Infrastructure**
+- 🐧 Strengthening **Linux system administration**
+- 🔁 Learning **CI/CD, Infrastructure as Code & Monitoring**
+- 📦 Exploring containerization and automation tools
 
-- 📫 How to reach me **keshavsara8@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🐧 Linux
+- Service management (`systemctl`)
+- Nginx configuration
+- Process monitoring
+- Basic networking & permissions
+- SSH & server access management
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavsara&show_icons=true&locale=en&layout=compact" alt="keshavsara" /></p>
+### ☁️ Cloud (AWS)
+- EC2 instance provisioning
+- Security Group configuration
+- Public vs Private IP understanding
+- Reverse proxy setup with Nginx
+- Deploying live applications
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavsara&show_icons=true&locale=en" alt="keshavsara" /></p>
+### 🔁 DevOps Fundamentals
+- Git & GitHub
+- Basic CI/CD concepts
+- Application deployment lifecycle
+- Cloud networking basics
+- System architecture understanding
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavsara&" alt="keshavsara" /></p>
+### 💻 Programming
+- Python (Flask)
+- C / C++
+- Java (basics)
+- SQL (MySQL)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Cloud Hosted Web Application
+- Deployed a Flask application on AWS EC2
+- Configured Nginx as reverse proxy
+- Implemented secure security group rules
+- Hosted application via public IP
+- Documented full deployment process
+
+🔗 Repository: `cloud-web-app`
+
+---
+
+### 🔹 Smart Helmet – Blind Spot Alert System
+- Embedded system using ESP32 & ESP8266
+- Radar + motion sensor integration
+- Real-time haptic feedback system
+- Wireless communication between modules
+
+🔗 Repository: `Smart-Helmet-Based-Blind-Spot-Alert-System`
+
+---
+
+## 📈 What I’m Building Toward
+- Docker & container orchestration
+- CI/CD pipelines (Jenkins / GitHub Actions)
+- Infrastructure as Code (Terraform)
+- Monitoring & Observability (Prometheus, Grafana)
+- Production-grade deployments
+
+---
+
+## 📫 Connect With Me
+📧 Email: keshavsara8@gmail.com  
+💼 GitHub: https://github.com/keshavsara  
+
+---
+
+⚡ I believe strong fundamentals in Linux and cloud infrastructure are the foundation of great DevOps engineering.
